@@ -31,6 +31,7 @@ public class LaunchArrays {
 		System.out.println(a.getA());
 		a.setB(20);
 		System.out.println(a.getB());
+		System.out.println("Second Commit")
 	}
 
 }
